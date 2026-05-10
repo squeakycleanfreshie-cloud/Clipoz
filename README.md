@@ -17,3 +17,8 @@ I created clipoz because I wanted to meet up with my freind at the bus stop with
 
 **Why do they look like that?**
 Clipoz are themed in different fruits, printing in packs of three. I want to make them into a blind box sort of system. maybe one day.
+
+<img width="464" height="442" alt="Screenshot 2026-05-10 at 3 41 39 pm" src="https://github.com/user-attachments/assets/f891734c-a5b7-450b-af25-e31098dfdb94" />
+<img width="434" height="367" alt="Screenshot 2026-05-10 at 3 40 15 pm" src="https://github.com/user-attachments/assets/1d76de8f-fc2b-4dfe-a7f2-12947851a8c4" />
+<img width="473" height="486" alt="Screenshot 2026-05-10 at 3 39 55 pm" src="https://github.com/user-attachments/assets/1df8eec0-8052-4841-ab18-850f8412b34f" />
+
