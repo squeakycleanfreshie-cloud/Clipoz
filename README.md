@@ -19,6 +19,14 @@ I created clipoz because I wanted to meet up with my freind at the bus stop with
 **Why do they look like that?**
 Clipoz are themed in different fruits, printing in packs of three. I want to make them into a blind box sort of system. maybe one day.
 
+**Assembly Instructions**
+1. 3D Print the fruits body, screws and back/lid
+2. Solder the parts to the custom PCB, making sure everything is good.
+3. Insert the PCB into the back of the Fruits
+4. Add an optional keychain if you want to
+5. Setup the bot, edit the code to your setting - more info found in guide in docs.
+6. Have fun using them.
+
 Onshape Link: https://cad.onshape.com/documents/c4d0343753f5ce60cb524a63/w/d55154f7bbc865e658fab8c6/e/a9e77f0447d58db2c40de487?renderMode=0&uiState=6a01ac4ed3c7c0f6100e28a5
 
 <img width="410" height="538" alt="Screenshot 2026-05-12 at 6 41 52 am" src="https://github.com/user-attachments/assets/0c86865e-77b2-4e32-a8e7-e63a6baa5eb4" />
