@@ -1,4 +1,3 @@
-
 # Clipoz
 The keychain that tracks movement
 
@@ -28,6 +27,8 @@ Clipoz are themed in different fruits, printing in packs of three. I want to mak
 6. Have fun using them.
 
 Onshape Link: https://cad.onshape.com/documents/c4d0343753f5ce60cb524a63/w/d55154f7bbc865e658fab8c6/e/a9e77f0447d58db2c40de487?renderMode=0&uiState=6a01ac4ed3c7c0f6100e28a5
+
+<img width="996" height="498" alt="Screenshot 2026-05-14 at 11 26 56 am" src="https://github.com/user-attachments/assets/726a2768-a69a-45b7-a36e-8db7ceb65c77" />
 
 <img width="410" height="538" alt="Screenshot 2026-05-12 at 6 41 52 am" src="https://github.com/user-attachments/assets/0c86865e-77b2-4e32-a8e7-e63a6baa5eb4" />
 <img width="464" height="442" alt="Screenshot 2026-05-10 at 3 41 39 pm" src="https://github.com/user-attachments/assets/f891734c-a5b7-450b-af25-e31098dfdb94" />
